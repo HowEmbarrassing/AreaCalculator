@@ -1,0 +1,9 @@
+C:\Users\Ivan\source\repos\AreaCalculator\bin\Debug\netstandard2.0\AreaCalculator.deps.json
+C:\Users\Ivan\source\repos\AreaCalculator\bin\Debug\netstandard2.0\AreaCalculator.dll
+C:\Users\Ivan\source\repos\AreaCalculator\bin\Debug\netstandard2.0\AreaCalculator.pdb
+C:\Users\Ivan\source\repos\AreaCalculator\obj\Debug\netstandard2.0\AreaCalculator.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\AreaCalculator\obj\Debug\netstandard2.0\AreaCalculator.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\AreaCalculator\obj\Debug\netstandard2.0\AreaCalculator.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\AreaCalculator\obj\Debug\netstandard2.0\AreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\AreaCalculator\obj\Debug\netstandard2.0\AreaCalculator.dll
+C:\Users\Ivan\source\repos\AreaCalculator\obj\Debug\netstandard2.0\AreaCalculator.pdb
